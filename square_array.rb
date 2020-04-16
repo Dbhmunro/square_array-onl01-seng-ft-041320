@@ -3,3 +3,6 @@ def square_array(array)
   array.collect { |x| new_array << x ** 2 }
   new_array
 end
+
+sample = [1, 2, 3]
+square_array(sample)
