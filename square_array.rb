@@ -6,4 +6,4 @@ end
 
 sample = [1, 2, 3]
 
-square_array(sample)
+puts square_array(sample)
